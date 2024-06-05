@@ -1,7 +1,7 @@
 # React PoC: Project Management App
 
 ## Description
-This repository contains a proof of concept (PoC) for a Project Management Application built using React. The purpose of this project is to create a responsive and functional project management tool using React.
+This repository contains a proof of concept (PoC) for a Project Management Application built using React. Focus is on applying learned knowledge on useEffect(), effects dependencies and cleanup and managing state.
 
 ## Table of Contents
 - [Features](#features)
@@ -11,10 +11,13 @@ This repository contains a proof of concept (PoC) for a Project Management Appli
 - [Contact Information](#contact-information)
 
 ## Features
-- Working with components
+- React hooks
 - State
 - Styling
 - Refs & Portals
+- useEffect()
+- Jsx
+- useRef()
 
 ## Prererequisites
 - Node.js
@@ -26,7 +29,7 @@ This repository contains a proof of concept (PoC) for a Project Management Appli
    git clone https://github.com/yourusername/your-repo-name.git
 2. Navigate to the project directory:
    ```bash
-   cd PocReactProjectManagementApp
+   cd PocReactQuizApp
 3. Download dependencies:
    ```bash
    npm install
@@ -35,7 +38,10 @@ This repository contains a proof of concept (PoC) for a Project Management Appli
    npm run dev
 ## Technologies Used
 - React
-- TailwindCss
+- Javascript
+- Jsx
+- Html
+- Css
 
 ## Contact Information
 - Email: edoardolai96@gmail.com
