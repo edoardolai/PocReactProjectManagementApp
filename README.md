@@ -1,4 +1,4 @@
-# React PoC: Project Management App
+# React PoC: Quiz App
 
 ## Description
 This repository contains a proof of concept (PoC) for a Project Management Application built using React. Focus is on applying learned knowledge on useEffect(), effects dependencies and cleanup and managing state.
@@ -26,7 +26,7 @@ This repository contains a proof of concept (PoC) for a Project Management Appli
 ### installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/your-repo-name.git
+   git clone https://github.com/edoardolai/PocReactProjectManagementApp.git
 2. Navigate to the project directory:
    ```bash
    cd PocReactQuizApp
