@@ -28,7 +28,7 @@ This repository contains a proof of concept (PoC) for a Project Management Appli
    git clone https://github.com/edoardolai/PocReactProjectManagementApp.git
 2. Navigate to the project directory:
    ```bash
-   cd PocReactQuizApp
+   cd PocReactProjectManagementApp
 3. Download dependencies:
    ```bash
    npm install
