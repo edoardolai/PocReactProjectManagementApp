@@ -1,7 +1,7 @@
-# React PoC: Quiz App
+# React PoC: Project Management App
 
 ## Description
-This repository contains a proof of concept (PoC) for a Project Management Application built using React. Focus is on applying learned knowledge on useEffect(), effects dependencies and cleanup and managing state.
+This repository contains a proof of concept (PoC) for a Project Management Application built using React. Focus is on applying learned knowledge on State, Refs, Portals, adding Tailwind Css to a Project and use it for styling.
 
 ## Table of Contents
 - [Features](#features)
@@ -13,9 +13,8 @@ This repository contains a proof of concept (PoC) for a Project Management Appli
 ## Features
 - React hooks
 - State
-- Styling
+- Tailwind CSS
 - Refs & Portals
-- useEffect()
 - Jsx
 - useRef()
 
