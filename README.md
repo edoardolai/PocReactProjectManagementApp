@@ -41,6 +41,7 @@ This repository contains a proof of concept (PoC) for a Project Management Appli
 - Jsx
 - Html
 - Css
+- Tailwind
 
 ## Contact Information
 - Email: edoardolai96@gmail.com
